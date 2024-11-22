@@ -2,6 +2,7 @@
 
 - 👩🏻‍🔬️ I'm Caitlin Cherryh (she/her)
 - 🦿 I'm a cyborg
+- 🏫 My undergraduate background is systems engineering and chemical biology
 - 🧬 I'm a [PhD candidate](https://biology.anu.edu.au/people/students/caitlin-cherryh) in phylogenetics at the Research School of Biology at the Australian National University, Canberra
 - 📁 The GitHub repositories for my thesis chapters are [treelikeness-metrics](https://github.com/caitlinch/treelikeness-metrics), [gene_filtering](https://github.com/caitlinch/gene_filtering), [metazoan-mixtures](https://github.com/caitlinch/metazoan-mixtures), and [ancient_ILS](https://github.com/caitlinch/ancient_ILS)
 - 🎓 If everything goes according to plan with my thesis revisions, I'll be graduating in February 2025!
